@@ -147,11 +147,10 @@ alias pan33='~/MT_PANDA/out/host/linux-x86/bin/fastboot flashall'
 export ANDROID_PRODUCT_OUT=~/MT_PANDA/out/target/product/panda
 
 alias grep='grep --color=auto'
-
+alias g++='g++ --std=c++0x'
 alias l='ls -al|less'
 alias st='git st|less'
 echo '.bashrc execute finish. '
-
 export PATH=$PATH:~/MT_PANDA/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/bin
 echo 'export addr2line command'
 cd ~/MT_PANDA

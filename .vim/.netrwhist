@@ -1,11 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/matthew28/MT_PANDA/external'
-let g:netrw_dirhist_2='/home/matthew28/MT_PANDA/external/akmd8963/akmd'
-let g:netrw_dirhist_3='/home/matthew28/MT_PANDA/external/akmd09911'
-let g:netrw_dirhist_4='/home/matthew28/MT_PANDA/external/akmd09911/akmd_6D'
-let g:netrw_dirhist_5='/home/matthew28/MT_kernel/omap/arch/arm/mach-omap2'
-let g:netrw_dirhist_6='/home/matthew28/MT_PANDA/external/akmd8963/libsensors'
-let g:netrw_dirhist_7='/home/matthew28/MT_kernel/omap'
-let g:netrw_dirhist_8='/home/matthew28'
-let g:netrw_dirhist_9='/home/matthew28/MT_PANDA/.git'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/matthew28/MT_PANDA/external/akmd09911/akmd_6D'
